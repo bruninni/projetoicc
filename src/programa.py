@@ -307,7 +307,7 @@ def criarBotoesPrincipais(janela):
         "Fazer Check-in",
         "Fazer Check-out",
         "Visualizar Suítes",
-        "Consultar Suítes",
+        "Filtrar Suítes",
     ]
 
 # Chamando a função que carrega as imagens
